@@ -15,8 +15,6 @@
 
 ## About Me  :sunglasses:
 
-![03_Hacker_Lair_medium](https://user-images.githubusercontent.com/79875785/162515537-0df53aad-2a25-4667-96f9-1d7276fdfba3.jpg)
-
 
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/adam-mccormack-545b34157/">
@@ -63,6 +61,10 @@ I enjoy the creativity, logic and problem solving involved with coding, and seei
 <img src="https://camo.githubusercontent.com/cdf6288683b69ed861cba26166cca937650cec85b33955c876eb943ce5f68119/68747470733a2f2f7777772e69637464656d792e636f6d2f696d616765732f353732382f6d64622e706e67" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  
 </div>
 <br></br>
 
