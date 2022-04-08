@@ -1,11 +1,11 @@
-# Recent Makers Graduate and Full-stack Software Engineer
+## Recent Makers Graduate and Full-stack Software Engineer
 <br />
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" width="500" height="250"/>
 </div>
 
-# Links 
+## Links 
 
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/adam-mccormack-545b34157/">
@@ -21,7 +21,7 @@
 </div>
 <br></br>
  
-# :hammer_and_wrench: Skills :
+## :hammer_and_wrench: Skills :
   
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html5" alt="Html5" width="40" height="40"/>&nbsp;
@@ -43,7 +43,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
-
+<br></br>
 
 Languages  | Frameworks/Libraries | Databases  | Tools | Methodologies |
 ------------- | ------------- | ------------- | ------------- | ------------- |
