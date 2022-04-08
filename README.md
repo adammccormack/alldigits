@@ -19,9 +19,9 @@
     <img src="https://user-images.githubusercontent.com/79875785/162441784-bce77379-6e2e-40fb-a9fe-be67279a44d1.png" alt="CV Badge" width="70" />
   </a>
 </div>
+<br></br>
  
- 
-# Languages 
+# :hammer_and_wrench: Skills :
   
 <!--
 **alldigits/alldigits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
