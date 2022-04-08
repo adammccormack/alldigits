@@ -1,8 +1,6 @@
-## :slightly_smiling_face: Hey There :
+### :slightly_smiling_face: Hey There
 
-
-
-***I'm a Recent Makers Graduate and Full Stack Software Engineer***
+**I'm a Recent Makers Graduate and Full Stack Software Engineer**
 <br />
 
 <div id="header" align="center">
@@ -17,18 +15,15 @@
   <a href="https://www.linkedin.com/in/adam-mccormack-545b34157/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- </div>
 <br>
  
-<div id="badges" align="left">
   <a href="https://github.com/alldigits/CV/blob/master/README.md">
     <img src="https://user-images.githubusercontent.com/79875785/162441784-bce77379-6e2e-40fb-a9fe-be67279a44d1.png" alt="CV Badge" width="70" />
   </a>
+  
+As a recent graduate of Makers Academy, I am even more passionate about programming and keen to continually expand my knowledge and skillset. My standards I have now set for myself is to learn how to make sure my code is continuously more clean, tested, reusable and easily changed in order to refine my code to a professional level. I love problem solving with code and seeing my ideas come to life and I can't wait to see what other possibilities there are with  new technologies in the future.
+  
 </div>
-<br></br>
-
-
-As a recent graduate of Makers Academy, I love learning about programming even more and improving my knowledge and skills, and refining my process to an even higher professional. I love problem solving with code and seeing my work come to life. I can't wait to see what other possibilities there are with new technologies in the future.
 
 <br>
  
