@@ -45,31 +45,18 @@
 </div>
 
 
-Methodologies | Languages    |  Technologies
-------------- | -------------| -------------
-- TDD/BDD     | Javascript |  
-- OOP         | Ruby |
-- DRY         | Python             |
-- SOLID       |               |
-- MVC         |       |
-- CI/CD       |       |
-- RESTful     |       |
-- Agile       |       | 
-- XP          |       |
-
-
-First Header  | Second Header | Third Header  |
-------------- | ------------- | ------------- |
-TDD/BDD  | Content Cell  | 
-OOP  | Content Cell  |
-DRY  | Content Cell  |
-SOLID  | Content Cell  |
-MVC  | Content Cell  |
-CI/CD  | Content Cell  |
-RESTful  | Content Cell  |
-Agile  | Content Cell  |
-XP  | Content Cell  |
-Content Cell  | Content Cell  |
+Languages  | Frameworks/Libraries | Databases  | Methodologies |
+------------- | ------------- | ------------- | ------------- |
+TDD/BDD  | Javascript  | Jasmine | 
+OOP  | Ruby  | Rspec |
+DRY  | Python | Capybara |
+SOLID  |   | Git |
+MVC  |   | Jira |
+CI/CD  |   | AWS S3 |
+RESTful  |   | GCS |
+Agile  |   | Photoshop |
+XP  |   | | Illustrator |
+  |   | Figma |
 
 
 
