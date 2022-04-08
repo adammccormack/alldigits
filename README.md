@@ -28,11 +28,12 @@
 <br>
 <br>
 <br>
+  
 As a recent graduate of Makers Academy, I am even more passionate about programming and keen to continually expand my knowledge and skillset. 
   
 My standard I have now set for myself is to continously learn how to ensure my code can be cleaner, tested, reusable, and easily changed in order to be an asset to my colleagues and to refine my code to a professional level. 
   
-I enjoy the creativity, logic and problem solving involved with coding, and seeing my ideas come to life, I can't wait to see what other possibilities there are with new technologies in the future.
+I enjoy the creativity, logic and problem solving involved with coding, and seeing my ideas come to life, I can't wait to see what other possibilities there are with new technologies in the future and look forward to creating exciting things/experiences.
   
 </div>
 
