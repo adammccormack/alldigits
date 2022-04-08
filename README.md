@@ -8,7 +8,7 @@
 
 <div id="header" align="center">
   <kbd>
-    <img src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" width="500" height="250"/>
+    <img src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif"/>
   </kbd>
 </div>
 <br>
