@@ -1,11 +1,11 @@
-### Recent Makers Graduate and Full-stack Software Engineer
+# Recent Makers Graduate and Full-stack Software Engineer
 <br />
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" width="500" height="250"/>
 </div>
 
-### Links 
+# Links 
 
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/adam-mccormack-545b34157/">
@@ -20,6 +20,8 @@
   </a>
 </div>
  
+ 
+# Languages 
   
 <!--
 **alldigits/alldigits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
