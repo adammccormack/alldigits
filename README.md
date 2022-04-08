@@ -2,7 +2,7 @@
 
 <br>
 
-**I'm a Recent Makers Graduate and Full Stack Software Engineer**
+### I'm a Recent Makers Graduate and Full Stack Software Engineer ###
 <br />
 <br>
 
