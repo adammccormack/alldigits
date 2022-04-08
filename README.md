@@ -1,6 +1,8 @@
-## Hello : )
+## :slightly_smiling_face: Hey There :
 
-**Recent Makers Graduate and Full Stack Software Engineer**
+
+
+***I'm a Recent Makers Graduate and Full Stack Software Engineer***
 <br />
 
 <div id="header" align="center">
@@ -24,6 +26,11 @@
   </a>
 </div>
 <br></br>
+
+
+As a recent graduate of Makers Academy, I love learning about programming even more and improving my knowledge and skills, and refining my process to an even higher professional. I love problem solving with code and seeing my work come to life. I can't wait to see what other possibilities there are with new technologies in the future.
+
+<br>
  
 ## :hammer_and_wrench: Skills :
   
