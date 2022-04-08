@@ -43,6 +43,37 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
+
+Methodologies | Languages    |  Technologies
+------------- | -------------| -------------
+- TDD/BDD     | Javascript |  
+- OOP         | Ruby |
+- DRY         | Python             |
+- SOLID       |               |
+- MVC         |       |
+- CI/CD       |       |
+- RESTful     |       |
+- Agile       |       | 
+- XP          |       |
+
+
+First Header  | Second Header | Third Header  |
+------------- | ------------- | ------------- |
+TDD/BDD  | Content Cell  | 
+OOP  | Content Cell  |
+DRY  | Content Cell  |
+SOLID  | Content Cell  |
+MVC  | Content Cell  |
+CI/CD  | Content Cell  |
+RESTful  | Content Cell  |
+Agile  | Content Cell  |
+XP  | Content Cell  |
+Content Cell  | Content Cell  |
+
+
+
+
 <!--
 **alldigits/alldigits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
