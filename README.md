@@ -1,6 +1,6 @@
 ## Hello : )
 
-***Recent Makers Graduate and Full Stack Software Engineer***
+**Recent Makers Graduate and Full Stack Software Engineer**
 <br />
 
 <div id="header" align="center">
