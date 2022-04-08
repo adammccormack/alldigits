@@ -35,7 +35,7 @@ I love the creativity and logic involved with coding, and problem solving with c
 
 <br>
  
-## :hammer_and_wrench: Skills :
+## Skills :hammer_and_wrench:
   
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html5" alt="Html5" width="40" height="40"/>&nbsp;
