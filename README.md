@@ -12,13 +12,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
-  
- <div id="cv">
+ 
+<div id="badges">
   <a href="https://github.com/alldigits/CV/blob/master/README.md">
-    :page_facing_up:
- </div>
-  
-  
+    <img src="https://img.shields.io/badge/My-CV-green?style=for-the-badge&logo=CV&logoColor=white" alt="CV Badge"/>
+  </a>
+</div>
   
 <!--
 **alldigits/alldigits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
