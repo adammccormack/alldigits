@@ -5,14 +5,14 @@
   <img src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" width="500" height="250"/>
 </div>
 
-## Links 
+## About Me 
 
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/adam-mccormack-545b34157/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
- 
+<br>
  
 <div id="badges" align="left">
   <a href="https://github.com/alldigits/CV/blob/master/README.md">
