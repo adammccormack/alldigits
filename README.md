@@ -14,6 +14,9 @@
 <br>
 
 ## About Me  :sunglasses:
+<div id="banner" align="center">
+<img src="![03_Hacker_Lair_medium](https://user-images.githubusercontent.com/79875785/162520914-f4f7e416-15c1-4b39-9972-f1aa336d966f.jpg)"/>
+</div>
 
 
 <div id="badges" align="left">
