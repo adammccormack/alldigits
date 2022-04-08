@@ -2,7 +2,9 @@
 <br />
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" width="500" height="250"/>
+  <kbd>
+    <img src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" width="500" height="250"/>
+  </kbd>
 </div>
 
 ## About Me 
