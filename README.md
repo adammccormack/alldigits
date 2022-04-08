@@ -45,18 +45,17 @@
 </div>
 
 
-Languages  | Frameworks/Libraries | Databases  | Methodologies |
-------------- | ------------- | ------------- | ------------- |
-TDD/BDD  | Javascript  | Jasmine | 
-OOP  | Ruby  | Rspec |
-DRY  | Python | Capybara |
-SOLID  |   | Git |
-MVC  |   | Jira |
-CI/CD  |   | AWS S3 |
-RESTful  |   | GCS |
-Agile  |   | Photoshop |
-XP  |   | | Illustrator |
-  |   | Figma |
+Languages  | Frameworks/Libraries | Databases  | Tools | Methodologies |
+------------- | ------------- | ------------- | ------------- | ------------- |
+Ruby (Primary) | Rails (Primary) | PostgreSQL | Rspec | OOP |
+Javascript/HTML/CSS (Knowledge of) | React (Knowledge of) | MySQL | Capybara | DRY |
+Python (Knowledge of) | Node.js (Knowledge of) | MongoDB | Jasmine | SOLID |
+SQL (Knowledge of) | | | Git | TDD/BDD |
+ | | | | AWS S3 | MVC |
+ | | | | GCS | CI/CD |
+ | | | | Photoshop | RESTful |
+ | | | | Illustrator | Agile |
+ | | | | Figma | XP |
 
 
 
