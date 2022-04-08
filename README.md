@@ -14,11 +14,8 @@
 <br>
 
 ## About Me  :sunglasses:
-<div id="banner" align="center">
-<img src="![03_Hacker_Lair_medium](https://user-images.githubusercontent.com/79875785/162520914-f4f7e416-15c1-4b39-9972-f1aa336d966f.jpg)"/>
-</div>
 
-
+<br>
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/adam-mccormack-545b34157/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
