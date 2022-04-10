@@ -18,7 +18,7 @@
 <br>
 <div id="badges" align="left">
   <a href="https://github.com/alldigits/CV/blob/master/README.md">
-    <img src="https://user-images.githubusercontent.com/79875785/162441784-bce77379-6e2e-40fb-a9fe-be67279a44d1.png" alt="CV Badge" height="60" />
+    <img src="https://user-images.githubusercontent.com/79875785/162441784-bce77379-6e2e-40fb-a9fe-be67279a44d1.png" alt="CV Badge" height="65" />
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/adam-mccormack-545b34157/">
