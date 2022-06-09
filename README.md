@@ -1,6 +1,5 @@
 ## Hey There :slightly_smiling_face:
 
-## About Me  :sunglasses:
 
 ### I'm a Recent Makers Graduate and Full Stack Software Engineer ###
 
