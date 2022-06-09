@@ -3,15 +3,6 @@
 <br>
 
 ### I'm a Recent Makers Graduate and Full Stack Software Engineer ###
-<br />
-<br>
-
-<div id="header" align="center">
-  <kbd>
-    <img src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif"/>
-  </kbd>
-</div>
-<br>
 
 ## About Me  :sunglasses:
 
