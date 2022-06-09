@@ -12,6 +12,8 @@
   <a href="https://www.linkedin.com/in/adam-mccormack-545b34157/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="38" />
   </a>
+  
+  <a href="https://www.linkedin.com/in/yushi95/](https://www.linkedin.com/in/a-d-a-m-m/" rel="nofollow"><img align="left"   src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Adam McCormack" | LinkedIn" width="21px" style="max-width: 100%;"></a>
 </div>
   
 <br>
