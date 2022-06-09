@@ -10,13 +10,12 @@
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/adam-mccormack-545b34157/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="38" />
+    <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn Badge" height="38" />
   </a>
+  
+<br>
+<br>
 
-  
-<br>
-<br>
-  
 As a recent graduate of Makers Academy, I am even more passionate about programming and keen to continually expand my knowledge and skillset. 
   
 The standard I have now set for myself is to continuously learn how to ensure my code can be cleaner, tested, reusable, and easily changed in order to be an asset to my colleagues and to refine my code to a professional level. 
