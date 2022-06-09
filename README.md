@@ -1,10 +1,8 @@
 ## Hey There :slightly_smiling_face:
 
-<br>
+## About Me  :sunglasses:
 
 ### I'm a Recent Makers Graduate and Full Stack Software Engineer ###
-
-## About Me  :sunglasses:
 
 <br>
 <div id="badges" align="left">
