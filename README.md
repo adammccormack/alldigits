@@ -10,7 +10,7 @@
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/adam-mccormack-545b34157/">
-    <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn Badge" height="70" />
+    <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn Badge" height="65" />
   </a>
   
 <br>
